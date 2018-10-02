@@ -7,7 +7,7 @@ import (
 )
 
 func CallC() {
-	fmt.Println("call C: v1.2.0")
+	fmt.Println("call C: v1.2.1")
 	fmt.Println("   --> call D:")
 	fmt.Printf("\t")
 	d.CallD()
